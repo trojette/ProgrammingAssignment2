@@ -1,5 +1,5 @@
 ## Below are two functions that are used to create a special
-## object that stores a numeric matrix and cache's its inverse
+## object that stores a numeric matrix and caches its inverse
 
 ## The first function, makeVector creates a special "vector",
 ## which is really a list containing a function to
